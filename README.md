@@ -13,7 +13,7 @@ If I had to pick a project to work on right now, I would probably pick modding f
 
 # Projects
 
-## RC-XD
+## [RC-XD](https://github.com/HomeroKemmerich/RC-XD)
 
 This is part of my final project for my Software Engineering classes. This repo represents the Hardware aspect of the project.
 
