@@ -9,7 +9,7 @@ I am yet to begin a course on React Native and looking forward for Requirements 
 
 I'm also an enthusiast of Agile Development, like Scrum and Kanban.
 
-If I had to pick a project to work on right now, I would probably pick modding for a game or developing one from scratch. I've always been interested in game design, and I am a very creative person, as per say.
+If I had to pick a project to work on right now, I would probably pick modding for a game or developing one from scratch. I've always been interested in game design, and I am a very creative person.
 
 # Projects
 
