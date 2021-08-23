@@ -11,14 +11,3 @@ I'm also an enthusiast of Agile Development, like Scrum and Kanban.
 
 If I had to pick a project to work on right now, I would probably pick modding for a game or developing one from scratch. I've always been interested in game design, and I am a very creative person.
 
-# Projects
-
-## [RC-XD](https://github.com/HomeroKemmerich/RC-XD)
-
-This is part of my final project for my Software Engineering classes. This repo represents the Hardware aspect of the project.
-
-<!--
-## RCApp
-
-This is the second part of my final project for Software Engineering. This one represents the app that will control the RC Car.
--->
