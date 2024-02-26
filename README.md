@@ -46,7 +46,7 @@ During my carreer I had the opporunity to work with various project management f
 
 ## Academic education
 
-> ### [Computer Engineering Major](#major-course-completion-chart)
+> ### Computer Engineering Major
 > - [University of Passo Fundo](https://upf.br/)
 > - Summer 2018 - summer 2025
 
@@ -77,7 +77,7 @@ During my carreer I had the opporunity to work with various project management f
 
 ## Attachments
 
-- [Curriculum Vitae](./cv.pdf)
-- [CTFL](./ctfl.pdf)
-- [CPRE-FL](./cpre.pdf)
-- [Six Sigma White Belt](./six-sigma-white-belt.pdf)
+- [Curriculum Vitae](./attachments/cv.pdf)
+- [CTFL](./attachments/ctfl.pdf)
+- [CPRE-FL](./attachments/cpre-fl.pdf)
+- [Six Sigma White Belt](./attachments/six-sigma-white-belt.pdf)
