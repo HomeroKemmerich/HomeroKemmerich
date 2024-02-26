@@ -1,4 +1,17 @@
-# Homero Kemmerich 
+# Homero Kemmerich
+
+## Summary
+
+- [Overview](#overview)
+- [Carreer](#carreer)
+  - [Competences](#competences)
+    - [Non-technical](#non-technical)
+    - [Technical](#technical)
+- [Languages](#languages)
+- [Academic education](#academic-education)
+- [Professional experience](#professional-experience)
+- [External links](#external-links)
+- [Attachments](#attachments)
 
 ## Overview
 
@@ -13,17 +26,17 @@ During my carreer I had the opporunity to work with various project management f
 
 ### Competences
 
-#### Non-technical
-
-- Leadership
-- Project management
-- Complex problem solving
-
 #### Technical
 
 - Full-stack development
 - Mobile development
 - Infrastructure management
+
+#### Non-technical
+
+- Leadership
+- Project management
+- Complex problem solving
 
 ## Languages
 
