@@ -33,10 +33,38 @@ During my carreer I had the opporunity to work with various project management f
 
 ## Academic education
 
-```mermaid
-pie title Computer engineering course 
-    "Complete" : 87.35
-    "Ongoing" : 3.95
-    "Not started" : 8.7
-```
+> [!note] [Computer Engineering Major](#major-course-completion-chart)
+> [University of Passo Fundo](https://upf.br/)
+> Summer 2018 - summer 2025
 
+## Professional experience
+
+> [!note] Software Engineer
+>  [Stara Inc.](https://stara.com.br)
+> August 2023 - february 2024
+> Mobile application for farming implements control. Technologies: React Native, Bluetooth Low Energy (BLE).
+
+> [!note] Autonomous professional
+>  [Metasig Systems](https://metasig.com.br/)
+> October 2022 - March 2023
+> Database migration scripts for the real estate companies. Technologies: Python, PostgreSQL, Docker.
+
+> [!note] Software developer
+>  [Stara Inc.](https://stara.com.br)
+> April 2020 - July 2023
+> Full-stack web development for Telemetry Stara. Technologies: 
+>  - Website: PHP, Zend Framework, HTML, CSS, JavaScript, jQuery;
+>  - API: NodeJS, Express, NestJS;
+>  - Infrastructure: AWS Cloud (EC2, S3, ECR, ECS, Cloudfront, Athena)
+
+## External links
+
+- [LinkedIn](https://www.linkedin.com/in/homero-kemmerich/)
+- [Computer Engineering course](https://github.com/HomeroKemmerich/encp)
+
+## Attachments
+
+- [Curriculum Vitae](./cv.pdf)
+- [CTFL](./ctfl.pdf)
+- [CPRE-FL](./cpre.pdf)
+- [Six Sigma White Belt](./six-sigma-white-belt.pdf)
