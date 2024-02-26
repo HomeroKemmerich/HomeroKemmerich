@@ -81,3 +81,4 @@ During my carreer I had the opporunity to work with various project management f
 - [CTFL](./attachments/ctfl.pdf)
 - [CPRE-FL](./attachments/cpre-fl.pdf)
 - [Six Sigma White Belt](./attachments/six-sigma-white-belt.pdf)
+- [Work experience](./attachments/work-experience.md)
