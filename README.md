@@ -33,29 +33,29 @@ During my carreer I had the opporunity to work with various project management f
 
 ## Academic education
 
-> [!note] [Computer Engineering Major](#major-course-completion-chart)
-> [University of Passo Fundo](https://upf.br/)
-> Summer 2018 - summer 2025
+> ### [Computer Engineering Major](#major-course-completion-chart)
+> - [University of Passo Fundo](https://upf.br/)
+> - Summer 2018 - summer 2025
 
 ## Professional experience
 
-> [!note] Software Engineer
->  [Stara Inc.](https://stara.com.br)
-> August 2023 - february 2024
-> Mobile application for farming implements control. Technologies: React Native, Bluetooth Low Energy (BLE).
+> ### Software Engineer
+> - [Stara Inc.](https://stara.com.br)
+> - August 2023 - february 2024
+> - Mobile application for farming implements control. Technologies: React Native, Bluetooth Low Energy (BLE).
 
-> [!note] Autonomous professional
->  [Metasig Systems](https://metasig.com.br/)
-> October 2022 - March 2023
-> Database migration scripts for the real estate companies. Technologies: Python, PostgreSQL, Docker.
+> ### Autonomous professional
+> - [Metasig Systems](https://metasig.com.br/)
+> - October 2022 - March 2023
+> - Database migration scripts for the real estate companies. Technologies: Python, PostgreSQL, Docker.
 
-> [!note] Software developer
->  [Stara Inc.](https://stara.com.br)
-> April 2020 - July 2023
-> Full-stack web development for Telemetry Stara. Technologies: 
->  - Website: PHP, Zend Framework, HTML, CSS, JavaScript, jQuery;
->  - API: NodeJS, Express, NestJS;
->  - Infrastructure: AWS Cloud (EC2, S3, ECR, ECS, Cloudfront, Athena)
+> ### Software developer
+> - [Stara Inc.](https://stara.com.br)
+> - April 2020 - July 2023
+> - Full-stack web development for Telemetry Stara. Technologies:
+>   - Website: PHP, Zend Framework, HTML, CSS, JavaScript, jQuery;
+>   - API: NodeJS, Express, NestJS;
+>   - Infrastructure: AWS Cloud (EC2, S3, ECR, ECS, Cloudfront, Athena)
 
 ## External links
 
