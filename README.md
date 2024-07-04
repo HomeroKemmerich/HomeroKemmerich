@@ -1,7 +1,9 @@
 # Hello, I'm Homero! 👋
 
 🎓 Night student of Computer Engineering
+
 💼 Working 9 to 5 as Software Analyst
+
 📍 Erechim, Rio Grande do Sul, Brazil
 
 ## About Me
