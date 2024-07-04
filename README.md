@@ -1,84 +1,31 @@
-# Homero Kemmerich
+# Hello, I'm Homero! 👋
 
-## Summary
+🎓 Night student of Computer Engineering
+💼 Working 9 to 5 as Software Analyst
+📍 Erechim, Rio Grande do Sul, Brazil
 
-- [Overview](#overview)
-- [Carreer](#carreer)
-  - [Competences](#competences)
-    - [Non-technical](#non-technical)
-    - [Technical](#technical)
-- [Languages](#languages)
-- [Academic education](#academic-education)
-- [Professional experience](#professional-experience)
-- [External links](#external-links)
-- [Attachments](#attachments)
+## About Me
 
-## Overview
+I am passionate about technology and always looking to learn new things. Currently, I am dividing my time between my day job and my night studies, where I am enhancing my skills in Computer Engineering.
 
-Welcome to my personal profile. Here on Github I host my personal projects, as well, as programming notes I take on my college course - Computer Engineering, btw.
-Unfortunately, the career projects I worked on are not publicly accessible, But you can have an idea of it accessing it on Google Play Store or App Store.
+## Skills 
 
-## Carreer
+- **Programming Languages**: TypeScript, Python, C.
+- **Technologies and Tools**: React, Node.js, Bun.js
+- **Other Skills**: SQL, Git, Jira + Confluence
 
-I work with software development since 2018, through an internship at Stara Inc., a precision agriculture company in Brazil. During my internship I worked with mobile development using Xamarin Forms and Firebase. After that, I was officially hired as a full stack (front-end, back-end, API) developer for the company's telemetry ecosystem projects, also managing various cloud infrastructure tools for the project's support. Most recently I was working in a mobile application for machine control and monitoring at the same company. External to the company I helped on database migration for another company in the real estate field, developing migration scripts between different database models.
+## Projects
 
-During my carreer I had the opporunity to work with various project management framweorks and practices, most importantly kanban and SCRUM, which led to certifications in the fields of software testing and requirements engineering. Most recently on the field, I was ahead on a large multisector project which invisioned the documentation and the creation of company patterns on the APIs developed internally.
+Here are some of my favorite projects:
 
-### Competences
+- **[Journalistic Importer]**: An obsidian plugin for importing your journalistic entries.
 
-#### Technical
+## Contact
 
-- Full-stack development
-- Mobile development
-- Infrastructure management
+- ![](https://cdn-icons-png.flaticon.com/512/174/174857.png): <https://linkedin.com/in/homero-kemmerich> 
+- ![](https://static.vecteezy.com/system/resources/previews/020/009/614/non_2x/email-and-mail-icon-black-free-png.png): [hmvkemmerich@gmail.com](mailto:hmvkemmerich@gmail.com)
 
-#### Non-technical
+## GitHub Stats
 
-- Leadership
-- Project management
-- Complex problem solving
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-## Languages
-
-- English (advanced)
-- Spanish (basic)
-- Portuguese (native language)
-
-## Academic education
-
-> ### Computer Engineering Major
-> - [University of Passo Fundo](https://upf.br/)
-> - Summer 2018 - summer 2025
-
-## Professional experience
-
-> ### Software Engineer
-> - [Stara Inc.](https://stara.com.br)
-> - August 2023 - february 2024
-> - Mobile application for farming implements control. Technologies: React Native, Bluetooth Low Energy (BLE).
-
-> ### Autonomous professional
-> - [Metasig Systems](https://metasig.com.br/)
-> - October 2022 - March 2023
-> - Database migration scripts for the real estate companies. Technologies: Python, PostgreSQL, Docker.
-
-> ### Software developer
-> - [Stara Inc.](https://stara.com.br)
-> - April 2020 - July 2023
-> - Full-stack web development for Telemetry Stara. Technologies:
->   - Website: PHP, Zend Framework, HTML, CSS, JavaScript, jQuery;
->   - API: NodeJS, Express, NestJS;
->   - Infrastructure: AWS Cloud (EC2, S3, ECR, ECS, Cloudfront, Athena)
-
-## External links
-
-- [LinkedIn](https://www.linkedin.com/in/homero-kemmerich/)
-- [Computer Engineering course](https://github.com/HomeroKemmerich/encp)
-
-## Attachments
-
-- [Curriculum Vitae](./attachments/cv.pdf)
-- [CTFL](./attachments/ctfl.pdf)
-- [CPRE-FL](./attachments/cpre-fl.pdf)
-- [Six Sigma White Belt](./attachments/six-sigma-white-belt.pdf)
-- [Work experience](./attachments/work-experience.md)
