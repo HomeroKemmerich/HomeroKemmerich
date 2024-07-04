@@ -22,8 +22,8 @@ Here are some of my favorite projects:
 
 ## Contact
 
-- ![](https://cdn-icons-png.flaticon.com/512/174/174857.png): <https://linkedin.com/in/homero-kemmerich> 
-- ![](https://static.vecteezy.com/system/resources/previews/020/009/614/non_2x/email-and-mail-icon-black-free-png.png): [hmvkemmerich@gmail.com](mailto:hmvkemmerich@gmail.com)
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="drawing" width="24" height="24"/>: <https://linkedin.com/in/homero-kemmerich> 
+- <img src="https://static.vecteezy.com/system/resources/previews/020/009/614/non_2x/email-and-mail-icon-black-free-png.png" alt="drawing" width="24" height="24"/>: [hmvkemmerich@gmail.com](mailto:hmvkemmerich@gmail.com)
 
 ## GitHub Stats
 
