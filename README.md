@@ -20,7 +20,7 @@ I am passionate about technology and always looking to learn new things. Current
 
 Here are some of my favorite projects:
 
-- **[Journalistic Importer](https://ithub.com/HomeroKemmerich/journalistic-importer)**: An obsidian plugin for importing your journalistic entries.
+- **[Journalistic Importer](https://github.com/HomeroKemmerich/journalistic-importer)**: An obsidian plugin for importing your journalistic entries.
 
 ## GitHub Stats
 
